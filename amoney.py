@@ -51,7 +51,7 @@ async def nut():
     async def partycum():
         for ball in BULBUS:
             if np.random.randint(0,len(BULBUS),1)>0: continue
-            v=poopoo()
+            v=peepee()
             await cum(v, [ball])
 
     async def balls(b):
